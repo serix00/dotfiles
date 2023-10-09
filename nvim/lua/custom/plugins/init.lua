@@ -25,6 +25,7 @@ return {
     'mbbill/undotree',
     'ThePrimeagen/vim-be-good',
     'christoomey/vim-tmux-navigator',
+    'nvim-tree/nvim-web-devicons',
     {
         'folke/trouble.nvim',
         requires = 'nvim-tree/nvim-web-devicons',

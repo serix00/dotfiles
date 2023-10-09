@@ -32,7 +32,7 @@ export LIBVA_DRIVER_NAME=nvidia
 alias rm="rm -v"
 alias ll="ls -la"
 alias cpdir="pwd | xclip -selection c"
-alias yasuna="cd ~/Dev/repos/yasuna"
+alias yasuna="cd ~/Hobby/programming/repo/yasuna"
 # separate yay from pacman
 alias yay="yay --aur"
 # Run rootless docker
